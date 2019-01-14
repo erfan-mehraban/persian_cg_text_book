@@ -412,3 +412,4 @@ tmtags
 # End of https://www.gitignore.io/api/tex,latex,textmate,visualstudiocode
 test/
 .tmp/
+.vscode/
